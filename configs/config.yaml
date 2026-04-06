@@ -1,0 +1,3 @@
+DPIRD_data_path:
+  raw-file: "dataset_DPIRD_raw/dataset_DPIRD_utc0.tar.gz"
+  untar-folder: "dataset_DPIRD_unzip"
