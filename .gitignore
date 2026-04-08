@@ -1,4 +1,5 @@
 *dataset*
+*venv*
 *.vscode
 *.nc
 config
