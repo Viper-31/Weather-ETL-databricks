@@ -1,0 +1,467 @@
+Scanning 7651 total files against 192 valid stations...
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Pinjar Towe.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csvDeleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: Thundelarra Station.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Cranbrook Dam 3.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Cranbrook Dam 3.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Cranbrook Dam 3.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Cranbrook Dam 3.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Cranbrook Dam 3.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: DFES-E Portable.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Cranbrook Dam 3.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Millstream Chichester National Park.csv
+Deleting non-DPIRD station: DFES-E Portable.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Cranbrook Dam 3.csv
+Deleting non-DPIRD station: Ravensthorpe Dam #4.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Lake King Dam.csv
+Deleting non-DPIRD station: DFES-E Portable.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Cranbrook Dam 3.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DBCA-A Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Lake King Dam.csv
+Deleting non-DPIRD station: DFES-E Portable.csv
+Deleting non-DPIRD station: DBCA-B Portable.csv
+Deleting non-DPIRD station: DFES-A Portable.csv
+Deleting non-DPIRD station: Jerramungup Town.csv
+Deleting non-DPIRD station: DFES-G Portable.csv
+Deleting non-DPIRD station: Harvey.csv
+Deleting non-DPIRD station: Quickup Dam.csv
+Deleting non-DPIRD station: Cranbrook Dam 3.csv
+Deleting non-DPIRD station: DFES-C Portable.csv
+Deleting non-DPIRD station: DFES-F Portable.csv
+Deleting non-DPIRD station: DFES-D Boorabbin.csv
+Deleting non-DPIRD station: DFES-B Talbot West.csv
+Deleting non-DPIRD station: Dardanup (Waterloo).csv
+Deleting non-DPIRD station: Brunswick Junction.csv
+Deleting non-DPIRD station: Pinjar Tower.csv
+Deleting non-DPIRD station: Waroona.csv
+Deleting non-DPIRD station: Logue Brook.csv
+Deleting non-DPIRD station: Lake King Dam.csv
+Deleting non-DPIRD station: DFES-I Portable.csv
+Deleting non-DPIRD station: DFES-E Portable.csv
+Cleanup complete. Removed 465 non-DPIRD station records.
